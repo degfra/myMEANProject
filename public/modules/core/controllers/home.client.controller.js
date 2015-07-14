@@ -17,7 +17,7 @@ angular.module('core').controller('HomeController', ['$scope', 'Authentication',
                 icon:           'glyphicon-calendar',
                 colour:         'btn-primary',
                 total:          '8,382',
-                description:    'UPCOMING EVENTS'
+                description:    'UPCOMING GREAT EVENTS'
             },
             {
                 icon:           'glyphicon-edit',
