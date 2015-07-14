@@ -11,7 +11,7 @@ angular.module('core').controller('HomeController', ['$scope', 'Authentication',
                 icon:           'glyphicon-user',
                 colour:         'btn-success',
                 total:          '20.408',
-                description:    'TOTAL CUSTOMERS IN ALL'
+                description:    'TOTAL CUSTOMERS'
             },
             {
                 icon:           'glyphicon-calendar',
