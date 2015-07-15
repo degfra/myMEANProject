@@ -35,7 +35,7 @@ angular.module('core').controller('HomeController', ['$scope', 'Authentication',
                 icon:           'glyphicon-eye-open',
                 colour:         'btn-warning',
                 total:          '268',
-                description:    'FOLLOW UPS ABOLUTELY REQUIRED'
+                description:    'FOLLOW UPS REQUIRED'
             },
             {
                 icon:           'glyphicon-flag',
