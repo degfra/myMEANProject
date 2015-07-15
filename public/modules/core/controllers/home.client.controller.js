@@ -23,7 +23,7 @@ angular.module('core').controller('HomeController', ['$scope', 'Authentication',
                 icon:           'glyphicon-edit',
                 colour:         'btn-success',
                 total:          '527',
-                description:    'NEW CUSTOMERS IN 24H'
+                description:    'NEW CUSTOMERS IN 48H'
             },
             {
                 icon:           'glyphicon-record',
